@@ -1,0 +1,2 @@
+Sum area : 233
+Sum population : 342
